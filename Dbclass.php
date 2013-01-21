@@ -8,9 +8,9 @@
 
                 var $db_user='root';
         
-                var $db_pass='innowar@123';
+                var $db_pass='';
         
-                var $db_name='core_cardealers';
+                var $db_name='db-name';
            
                 var $dbCon;     
                 
